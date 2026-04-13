@@ -44,3 +44,4 @@ class ProfileView(APIView):
             "username": user.username,
             "message": "You are authenticated 🎉"
         })
+    

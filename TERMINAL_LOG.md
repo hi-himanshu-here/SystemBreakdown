@@ -17,3 +17,10 @@
 - curl → used to test APIs directly from terminal
 - Authorization header format:
   Authorization: Bearer <token>
+
+- django-admin startproject config . → create project in current directory
+- django-admin startapp core → create core app
+
+- Middleware intercepts every request/response
+- Middleware order matters in Django
+- Global error handling improves system reliability
